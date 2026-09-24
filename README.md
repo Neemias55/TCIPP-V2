@@ -33,9 +33,9 @@ O **TCIPP** é uma ferramenta de diagnóstico organizacional que transforma cinc
 
 ### Função de score
 
-\[
-S(x) = \operatorname{média}(x) - 0{,}70 \times \max(0, 3 - \min(x))
-\]
+$$
+S(x) = \text{média}(x) - 0{,}70 \times \max(0, 3 - \min(x))
+$$
 
 Em que `x` representa o conjunto das cinco respostas.
 
