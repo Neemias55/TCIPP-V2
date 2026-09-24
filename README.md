@@ -31,7 +31,7 @@ O **TCIPP** é uma ferramenta de diagnóstico organizacional que transforma cinc
 
 ## Equação oficial — V2.0 FINAL
 
-### Função de score
+### TESTE DE RENDERIZAÇÃO
 
 $$
 S(x) = \text{média}(x) - 0{,}70 \times \max(0, 3 - \min(x))
